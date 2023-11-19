@@ -1,7 +1,7 @@
 # Portfolio PowerBI
 Dashboards elaborados visando apresentar os resultados de estudos em Power BI:
 ## 1) UNDP-Expected-Years-Schooling - Anos esperados de Escolaridade
-
+![Dash](https://github.com/Gustavo-Dias-Ramos/Portfolio-Power-BI/assets/129678166/67c36d6d-dbe1-47b3-8390-51bb2a52ded1)
 ### Sobre o Dataset
 ##### Contexto
 Anos Esperados de Escolaridade (Expected Years os Schooling - EYS) é uma métrica educacional que visa avaliar antecipadamente a quantidade de anos de educação formal que se espera que um indivíduo receba em determinado país ou região.
